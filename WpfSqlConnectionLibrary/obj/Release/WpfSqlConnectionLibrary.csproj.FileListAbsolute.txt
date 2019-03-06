@@ -1,0 +1,15 @@
+C:\Users\Вячеслав\source\repos\WpfSqlConnectionLibrary\WpfSqlConnectionLibrary\bin\Release\WpfSqlConnectionLibrary.dll
+C:\Users\Вячеслав\source\repos\WpfSqlConnectionLibrary\WpfSqlConnectionLibrary\bin\Release\WpfSqlConnectionLibrary.pdb
+C:\Users\Вячеслав\source\repos\WpfSqlConnectionLibrary\WpfSqlConnectionLibrary\obj\Release\Views\AnimationWin8.g.cs
+C:\Users\Вячеслав\source\repos\WpfSqlConnectionLibrary\WpfSqlConnectionLibrary\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Вячеслав\source\repos\WpfSqlConnectionLibrary\WpfSqlConnectionLibrary\obj\Release\WpfSqlConnectionLibrary_MarkupCompile.cache
+C:\Users\Вячеслав\source\repos\WpfSqlConnectionLibrary\WpfSqlConnectionLibrary\obj\Release\WpfSqlConnectionLibrary_MarkupCompile.lref
+C:\Users\Вячеслав\source\repos\WpfSqlConnectionLibrary\WpfSqlConnectionLibrary\obj\Release\Views\AnimationWin8.baml
+C:\Users\Вячеслав\source\repos\WpfSqlConnectionLibrary\WpfSqlConnectionLibrary\obj\Release\WpfSqlConnectionLibrary.g.resources
+C:\Users\Вячеслав\source\repos\WpfSqlConnectionLibrary\WpfSqlConnectionLibrary\obj\Release\WpfSqlConnectionLibrary.Properties.Resources.resources
+C:\Users\Вячеслав\source\repos\WpfSqlConnectionLibrary\WpfSqlConnectionLibrary\obj\Release\WpfSqlConnectionLibrary.csproj.GenerateResource.cache
+C:\Users\Вячеслав\source\repos\WpfSqlConnectionLibrary\WpfSqlConnectionLibrary\obj\Release\WpfSqlConnectionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Вячеслав\source\repos\WpfSqlConnectionLibrary\WpfSqlConnectionLibrary\obj\Release\WpfSqlConnectionLibrary.dll
+C:\Users\Вячеслав\source\repos\WpfSqlConnectionLibrary\WpfSqlConnectionLibrary\obj\Release\WpfSqlConnectionLibrary.pdb
+C:\Users\Вячеслав\source\repos\WpfSqlConnectionLibrary\WpfSqlConnectionLibrary\obj\Release\Windows\SqlConnectionWindow.g.cs
+C:\Users\Вячеслав\source\repos\WpfSqlConnectionLibrary\WpfSqlConnectionLibrary\obj\Release\Windows\SqlConnectionWindow.baml

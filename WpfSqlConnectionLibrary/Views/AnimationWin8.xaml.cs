@@ -12,14 +12,14 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WpfSqlConnectionLibrary
+namespace WpfSqlConnectionLibrary.Views
 {
     /// <summary>
-    /// Логика взаимодействия для UserControl1.xaml
+    /// Логика взаимодействия для AnimationWin8.xaml
     /// </summary>
-    public partial class UserControl1 : Window
+    public partial class AnimationWin8 : UserControl
     {
-        public UserControl1()
+        public AnimationWin8()
         {
             InitializeComponent();
         }
