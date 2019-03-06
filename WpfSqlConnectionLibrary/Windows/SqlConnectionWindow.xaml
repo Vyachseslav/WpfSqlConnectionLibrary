@@ -27,9 +27,12 @@
         <ComboBox x:Name="comboServerName" HorizontalAlignment="Left" Margin="10,31,0,0" VerticalAlignment="Top" Width="250"
                   IsEditable="True"
                   ItemsSource="{Binding ServerList, UpdateSourceTrigger=PropertyChanged}"/>
+        <!-- ItemsSource="{Binding ServerList, UpdateSourceTrigger=PropertyChanged}"-->
         <Label Content="Database name" HorizontalAlignment="Left" Margin="10,54,0,0" VerticalAlignment="Top" FontWeight="DemiBold"/>
         <ComboBox x:Name="comboDatabaseName" Margin="10,80,0,0" VerticalAlignment="Top"
-                  IsEditable="True" HorizontalAlignment="Left" Width="250"/>
+                  IsEditable="True" HorizontalAlignment="Left" Width="250" 
+                  DropDownOpened="ComboDatabaseName_DropDownOpened"/>
+        <!--ItemsSource="{Binding DatabaseList, UpdateSourceTrigger=PropertyChanged}" -->
 
         <CheckBox x:Name="checkIntSec" Content="Integrated security" HorizontalAlignment="Left" Margin="10,107,0,0" VerticalAlignment="Top"
                   IsChecked="True"/>

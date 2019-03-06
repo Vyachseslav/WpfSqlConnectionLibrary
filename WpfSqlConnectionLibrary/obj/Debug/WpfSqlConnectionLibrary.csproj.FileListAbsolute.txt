@@ -13,3 +13,4 @@ C:\Users\Вячеслав\source\repos\WpfSqlConnectionLibrary\WpfSqlConnectionL
 C:\Users\Вячеслав\source\repos\WpfSqlConnectionLibrary\WpfSqlConnectionLibrary\obj\Debug\WpfSqlConnectionLibrary.pdb
 C:\Users\Вячеслав\source\repos\WpfSqlConnectionLibrary\WpfSqlConnectionLibrary\obj\Debug\Windows\SqlConnectionWindow.g.cs
 C:\Users\Вячеслав\source\repos\WpfSqlConnectionLibrary\WpfSqlConnectionLibrary\obj\Debug\Windows\SqlConnectionWindow.baml
+C:\Users\Вячеслав\source\repos\WpfSqlConnectionLibrary\WpfSqlConnectionLibrary\obj\Debug\WpfSqlConnectionLibrary.csprojAssemblyReference.cache
